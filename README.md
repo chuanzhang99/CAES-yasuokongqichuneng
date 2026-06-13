@@ -3,6 +3,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://riverbankcomputing.com/software/pyqt/)
 [![Version](https://img.shields.io/badge/version-2.0.0-orange.svg)](./caes_calc/__init__.py)
+<img width="2404" height="1860" alt="image" src="https://github.com/user-attachments/assets/0f7fd6c4-8d0c-470d-af8e-75cc2332f2ca" />
+
 
 用于非补燃压缩空气储能（CAES）系统热力学参数计算与方案评估的免费工具，支持可视化流程图编辑、命令行计算与数据校验。
 
